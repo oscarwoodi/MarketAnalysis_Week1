@@ -7,10 +7,10 @@ Looking at Funding data for bitcoin perpetual contracts and spotting trends.
 
 ## Project Aims
 
-***Funding***
+**Funding**
 - retrieve funding data
 - plot and analyse data
 - see how funding data can be used to predict price swings in different crypto assets
 
-***Volatility***
+**Volatility**
 - How can we interpret volatility in different ways?
